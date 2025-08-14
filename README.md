@@ -4,7 +4,7 @@ I’m **Joshua Hirakawa**, a full-stack software engineer passionate about **bac
 
 🔭 I’m currently working on **[Kaftain](#)**, a Kafka consumer lag autoscaler for Kubernetes environments  
 🌱 I’m currently learning **Go**  
-👯 I’m looking to collaborate on deploying **Sidebar** and providing engineers with a valuable visualization tool to design scalable systems  
+👯 I’m looking to collaborate on deploying **[Sidebar](#)** and providing engineers with a valuable visualization tool to design scalable systems  
 😄 **Pronouns:** he/him  
 ⚡ **Fun fact:** I often hear melodies in my dreams. I record them as voice memos and turn them into full compositions, posting them as reels or keeping them in my dream journal 🎵  
 🎧 [Instagram](https://www.instagram.com/itsbisko) | 🎶 [SoundCloud](https://soundcloud.com/bisko_official)  
